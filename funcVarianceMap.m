@@ -1,8 +1,8 @@
 % *************************************************************************
 % Title: Function-Compute Variance map of the image
-% Author: Siddhant Ahuja
-% Created: May 2008
-% Copyright Siddhant Ahuja, 2008
+% Author: Samarth Khare
+% Created: October 2014
+% Copyright Samarth Khare, 2014
 % Inputs: Input Image (var: inputImage), Window Size (var: windowSize),
 % Threshold (var: thresh) Typical value is 140
 % Outputs: Variance Map (var: varianceImg) , Time taken (var: timeTaken)
